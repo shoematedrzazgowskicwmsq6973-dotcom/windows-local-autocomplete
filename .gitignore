@@ -1,0 +1,17 @@
+.env
+.env.*
+*.log
+*.jsonl
+*.sqlite*
+*.exe
+*.zip
+*.gguf
+Models/
+models/
+blobs/
+backups/
+verification.local.json
+.verification/
+.vscode/
+__pycache__/
+*.py[cod]

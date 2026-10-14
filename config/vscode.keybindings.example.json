@@ -1,0 +1,11 @@
+[
+  {
+    "key": "ctrl+i",
+    "command": "-continue.focusEdit"
+  },
+  {
+    "key": "ctrl+shift+alt+i",
+    "command": "continue.focusEdit",
+    "when": "editorTextFocus && !editorReadonly"
+  }
+]

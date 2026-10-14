@@ -1,0 +1,6 @@
+{
+  "editor.inlineSuggest.enabled": true,
+  "continue.enableTabAutocomplete": true,
+  "continue.enableNextEdit": false,
+  "continue.telemetryEnabled": false
+}
